@@ -1,7 +1,7 @@
 Hi 👋 My name is Onkar Deshpande
 ================================
 
-Web Developer , thinker, businessman.
+Developer , forever student.
 -------------------------------------
 
 * 🚀  I'm currently working on [NeoGossip](http://neogossip.netlify.app)
