@@ -1,26 +1,8 @@
 Hi 👋 My name is Onkar Deshpande
 ================================
+A businessman turned Software Engineer , love to ship 🚀🚀🚀
 
-Developer , forever student.
--------------------------------------
-
-* 🚀  I'm currently working on [NeoGossip](http://neogossip.netlify.app)
-* 🧠  I'm learning React : Graphql
-* 🤝  I'm open to collaborating on Community based projects
-* ⚡  I love talking about business and human behavior traits.
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/sashaboi"><img src="https://github-readme-stats.vercel.app/api?username=sashaboi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sashaboi's GitHub stats" /></a>
-
-<a href="http://www.github.com/sashaboi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sashaboi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/sashaboi"><img src="https://activity-graph.herokuapp.com/graph?username=sashaboi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/sashaboi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashaboi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+Why sashaboi ? Sasha is a <a href="https://villains.fandom.com/wiki/Sasha_(Behind_Enemy_Lines)#:~:text=Sasha%20is%20the%20main%20antagonist,was%20portrayed%20by%20Vladimir%20Mashkov." target='_blank'>character</a> I loved from the movie Behind enemy lines, and was my gamertag, so I go by Sashaboi 😁
 ### Skills
 
 <p align="left">
@@ -43,6 +25,6 @@ Developer , forever student.
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/i_am_onkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/sashaboi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/onkardeshpande93" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/i_am_onkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/onkardeshpande93" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/i_am_onkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
